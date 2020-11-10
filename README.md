@@ -7,7 +7,7 @@ You can download the most recent CSV file here: [jcc.csv](jcc.csv)
 
 The easiest way to run this application is like this:
 ```
-cargo run --release
+cargo run --release > jcc.csv
 ```
 
 You can also build the application without running it like this:
