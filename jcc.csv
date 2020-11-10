@@ -279,7 +279,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 07,Fukushima / 福島,0703,Koriyama / 郡山,false,,City
 07,Fukushima / 福島,0704,Taira / 平,true,"Sep.30,1966",City
 07,Fukushima / 福島,0705,Shirakawa / 白河,false,,City
-07,Fukushima / 福島,0706,Haramachi / 原町,true,"Dec.31,2005,City
+07,Fukushima / 福島,0706,Haramachi / 原町,true,"Dec.31,2005",City
 07,Fukushima / 福島,0707,Sukagawa / 須賀川,false,,City
 07,Fukushima / 福島,0708,Kitakata / 喜多方,false,,City
 07,Fukushima / 福島,0709,Joban / 常磐,true,"Sep.30,1966",City
@@ -302,7 +302,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 08,Niigata / 新潟,08006,Sado / 佐渡,true,"Feb.29,2004",Gun
 08,Niigata / 新潟,08007,Santo / 三島,false,,Gun
 08,Niigata / 新潟,08008,Nakauonuma / 中魚沼,false,,Gun
-08,Niigata / 新潟,08009,Nakakambara / 中蒲原,true,"Dec.31,2005,Gun
+08,Niigata / 新潟,08009,Nakakambara / 中蒲原,true,"Dec.31,2005",Gun
 08,Niigata / 新潟,0801,Niigata / 新潟,false,,City
 08,Niigata / 新潟,08010,Nakakubiki / 中頸城,true,"Mar.31,2005",Gun
 08,Niigata / 新潟,080101,Kita / 北,false,,Ku
@@ -332,7 +332,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 08,Niigata / 新潟,0812,Murakami / 村上,false,,City
 08,Niigata / 新潟,0813,Tsubame / 燕,false,,City
 08,Niigata / 新潟,0814,Naoetsu / 直江津,true,"Apr.28,1971",City
-08,Niigata / 新潟,0815,Tochio / 栃尾,true,"Dec.31,2005,City
+08,Niigata / 新潟,0815,Tochio / 栃尾,true,"Dec.31,2005",City
 08,Niigata / 新潟,0816,Itoigawa / 糸魚川,false,,City
 08,Niigata / 新潟,0817,Arai / 新井,true,"Mar.31,2005",City
 08,Niigata / 新潟,0818,Gosen / 五泉,false,,City
@@ -643,7 +643,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 14,Ibaraki / 茨城,1408,Ryugasaki / 龍ケ崎,false,,City
 14,Ibaraki / 茨城,1409,Nakaminato / 那珂湊,true,"Oct.31,1994",City
 14,Ibaraki / 茨城,1410,Shimotsuma / 下妻,false,,City
-14,Ibaraki / 茨城,1411,Mitsukaido / 水海道,true,"Dec.31,2005,City
+14,Ibaraki / 茨城,1411,Mitsukaido / 水海道,true,"Dec.31,2005",City
 14,Ibaraki / 茨城,1412,Hitachiota / 常陸太田,false,,City
 14,Ibaraki / 茨城,1413,Katsuta / 勝田,true,"Oct.31,1994",City
 14,Ibaraki / 茨城,1414,Takahagi / 高萩,false,,City
@@ -902,11 +902,11 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 20,Aichi / 愛知,2038,Miyoshi / みよし,false,,City
 20,Aichi / 愛知,2039,Ama / あま,false,,City
 20,Aichi / 愛知,2040,Nagakute / 長久手,false,,City
-21,Triple / 三重,21001,Age / 安芸,true,"Dec.31,2005,Gun
+21,Triple / 三重,21001,Age / 安芸,true,"Dec.31,2005",Gun
 21,Triple / 三重,21002,Ano / 安濃,true,"Sep.29,1956",Gun
 21,Triple / 三重,21003,Ayama / 阿山,true,"Oct.31,2004",Gun
 21,Triple / 三重,21004,Iinan / 飯南,true,"Dec.31,2004",Gun
-21,Triple / 三重,21005,Ichishi / 一志,true,"Dec.31,2005,Gun
+21,Triple / 三重,21005,Ichishi / 一志,true,"Dec.31,2005",Gun
 21,Triple / 三重,21006,Inabe / 員弁,false,,Gun
 21,Triple / 三重,21007,Kawage / 河芸,true,"Sep.29,1956",Gun
 21,Triple / 三重,21008,Kitamuro / 北牟婁,false,,Gun
@@ -930,16 +930,16 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 21,Triple / 三重,2110,Kameyama / 亀山,false,,City
 21,Triple / 三重,2111,Toba / 鳥羽,false,,City
 21,Triple / 三重,2112,Kumano / 熊野,false,,City
-21,Triple / 三重,2113,Hisai / 久居,true,"Dec.31,2005,City
+21,Triple / 三重,2113,Hisai / 久居,true,"Dec.31,2005",City
 21,Triple / 三重,2114,Ujiyamada / 宇治山田,true,"Dec.31,1954",City
 21,Triple / 三重,2115,Inabe / いなべ,false,,City
 21,Triple / 三重,2116,Shima / 志摩,false,,City
 21,Triple / 三重,2117,Iga / 伊賀,false,,City
-22,Kyoto / 京都,22001,Amada / 天田,true,"Dec.31,2005,Gun
+22,Kyoto / 京都,22001,Amada / 天田,true,"Dec.31,2005",Gun
 22,Kyoto / 京都,22002,Ikaruga / 何鹿,true,"Sep.29,1956",Gun
 22,Kyoto / 京都,22003,Otokuni / 乙訓,false,,Gun
-22,Kyoto / 京都,22004,Kasa / 加佐,true,"Dec.31,2005,Gun
-22,Kyoto / 京都,22005,Kitakuwada / 北桑田,true,"Dec.31,2005,Gun
+22,Kyoto / 京都,22004,Kasa / 加佐,true,"Dec.31,2005",Gun
+22,Kyoto / 京都,22005,Kitakuwada / 北桑田,true,"Dec.31,2005",Gun
 22,Kyoto / 京都,22006,Kuse / 久世,false,,Gun
 22,Kyoto / 京都,22007,Kumano / 熊野,true,"Mar.31,2004",Gun
 22,Kyoto / 京都,22008,Soraku / 相楽,false,,Gun
@@ -979,7 +979,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 23,Shiga / 滋賀,23002,Inukami / 犬上,false,,Gun
 23,Shiga / 滋賀,23003,Echi / 愛知,false,,Gun
 23,Shiga / 滋賀,23004,Gamou / 蒲生,false,,Gun
-23,Shiga / 滋賀,23005,Kanzaki / 神崎,true,"Dec.31,2005,Gun
+23,Shiga / 滋賀,23005,Kanzaki / 神崎,true,"Dec.31,2005",Gun
 23,Shiga / 滋賀,23006,Kurita / 栗太,true,"Sep.30,2001",Gun
 23,Shiga / 滋賀,23007,Koka / 甲賀,true,"Sep.30,2004",Gun
 23,Shiga / 滋賀,23008,Sakata / 坂田,true,"Sep.30,2005",Gun
@@ -1331,7 +1331,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 33,Yamaguchi / 山口,3306,Hofu / 防府,false,,City
 33,Yamaguchi / 山口,3307,Kudamatsu / 下松,false,,City
 33,Yamaguchi / 山口,3308,Iwakuni / 岩国,false,,City
-33,Yamaguchi / 山口,3309,Onoda / 小野田,true,"Mar.21,2005,City
+33,Yamaguchi / 山口,3309,Onoda / 小野田,true,"Mar.21,2005",City
 33,Yamaguchi / 山口,3310,Hikari / 光,false,,City
 33,Yamaguchi / 山口,3311,Nagato / 長門,false,,City
 33,Yamaguchi / 山口,3312,Yanai / 柳井,false,,City
@@ -1394,7 +1394,7 @@ STATE,STATE Name,CNTY,CNTY Name,Deleted,Valid Until,Type
 36,Kagawa / 香川,36004,Kita / 木田,false,,Gun
 36,Kagawa / 香川,36005,Syozu / 小豆,false,,Gun
 36,Kagawa / 香川,36006,Nakatado / 仲多度,false,,Gun
-36,Kagawa / 香川,36007,Mitoyo / 三豊,true,"Dec.31,2005,Gun
+36,Kagawa / 香川,36007,Mitoyo / 三豊,true,"Dec.31,2005",Gun
 36,Kagawa / 香川,3601,Takamatsu / 高松,false,,City
 36,Kagawa / 香川,3602,Marugame / 丸亀,false,,City
 36,Kagawa / 香川,3603,Sakaide / 坂出,false,,City

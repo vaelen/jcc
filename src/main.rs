@@ -83,20 +83,23 @@ fn parse(data: &str, re_str: &str, region_type: RegionType) -> BTreeMap<String,R
     let re = Regex::new(re_str).unwrap();
     data.lines().map(|line| {
         re.captures(line).map(|caps| {
-            let num = caps.name("num").unwrap().as_str();
+            let num = caps.name("num").unwrap().as_str().to_string();
             let name = caps.name("name").unwrap().as_str();
             let kanji = caps.name("kanji").unwrap().as_str();
             let deleted: bool = match caps.name("deleted") {
                 Some(d) => !d.as_str().is_empty(),
                 None => false,
             };
-            let valid_until = match caps.name("valid_until") {
+            let mut valid_until = match caps.name("valid_until") {
                 Some(m) => m.as_str().to_string(),
                 None => String::new(),
             };
+            if valid_until.starts_with("\"") && !valid_until.ends_with("\"") {
+                valid_until.push('"');
+            }
             (num.to_string(),
              Region {
-                 code: num.to_string(),
+                 code: num,
                  name: format!("{} / {}", name, kanji),
                  deleted: deleted,
                  valid_until: valid_until,
